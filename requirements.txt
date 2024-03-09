@@ -1,4 +1,4 @@
-name: D:\AMIKOM\Bangkit\Code\Dicoding_2\Belajar_Analisis_Data_dengan_Python\envs
+name: envs
 channels:
   - conda-forge
   - defaults
@@ -220,4 +220,3 @@ dependencies:
       - watchdog==4.0.0
       - werkzeug==3.0.1
       - wrapt==1.16.0
-prefix: D:\AMIKOM\Bangkit\Code\Dicoding_2\Belajar_Analisis_Data_dengan_Python\envs
